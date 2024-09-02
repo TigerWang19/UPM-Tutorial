@@ -1,0 +1,11 @@
+{
+  "name": "com.unknow.colorize",
+  "version": "0.0.1",
+  "displayName": "Colorize String",
+  "description": "Colorize your strings.",
+  "unity": "2021.3",
+  "author": {
+    "name": "unknow"
+  },
+  "dependencies": {}
+}
